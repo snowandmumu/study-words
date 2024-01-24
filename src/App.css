@@ -13,7 +13,6 @@
   display: flex;
   position: relative;
   max-height: 790px;
-  /* overflow: scroll; */
 }
 .time-line {
   width: 180px;
